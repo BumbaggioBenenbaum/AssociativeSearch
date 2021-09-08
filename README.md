@@ -1,4 +1,4 @@
-# AssociativeSearch
+# Associative Search Engine & Associative Tagger
 ### (in progress) A set of scripts for associative text labelling/indexation. Helps to effectively map a context of discussion based on a single-phrase input.
 
 The script is intended to support usecases of the following sort:
