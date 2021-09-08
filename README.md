@@ -2,8 +2,8 @@
 ### (in progress) A set of scripts for associative text labelling/indexation. Helps to effectively map a context of discussion based on a single-phrase input.
 
 The script is intended to support usecases of the following sort:
-  - let's say we have a large dataset with consumer comments & mentions of - picking randomly - furniture
-  - we want to **quickly extract only the mentions that refer to particular furniture without typing all the names/kinds (& their synonyms) one by one**
+  - let's say we have a large and spammy dataset of consumer comments & mentions 
+  - we want to **quickly extract only the mentions that refer to - for example - furniture without typing all the names/kinds (& their synonyms) one by one**
   - we pass one key phrase (eg. **"szafka"**) to the search function:
   
     1) It sends an **API call to a dictionary of synonyms** and returns a list like: ['schowek', 'kredens', 'gabinet', 'garderoba','szuflada']
