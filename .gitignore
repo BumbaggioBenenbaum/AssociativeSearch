@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 
 ignoreme.txt
+piesek*.txt
